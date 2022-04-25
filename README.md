@@ -30,7 +30,7 @@ Enter:
 
 ### Example Starting Output
 
-![picture alt](exmpleoutput.png)
+![exampleoutput](https://user-images.githubusercontent.com/66917209/165116489-f5f5db4f-dc69-4353-bdec-af68b20c9328.png)
 
 - - - -
 ## Pull Requests
