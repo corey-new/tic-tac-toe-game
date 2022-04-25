@@ -1,7 +1,7 @@
 # C++ TicTacToe 
 
 - - - -
-#### This repository consists of one main file `tic_tac_toe.cpp` that will structure the 
+#### This repository consists of one main file `tic_tac_toe.cpp` (compiled in c++14) that will structure the 
 #### command line application. If you are considering **contributing**, follow the steps on how to contribute to the repository. 
 
 - - - -
@@ -17,16 +17,16 @@
 - - - -
 ## Testing Code
 
-#### For **Windows 10/11**
-Enter: 
-`> clang++ tic_tac_toe.cpp -o`
-`> a.exe`
+### For **Windows 10/11**
+#### Enter: 
+#### `> clang++ tic_tac_toe.cpp -o`
+#### `> a.exe`
 
 
-#### For **MacOS / Unix**
-Enter:
-`$ clang++ tic_tac_toe.cpp -o a.out`
-`$ ./a.out`
+### For **MacOS / Unix**
+#### Enter:
+#### `$ clang++ tic_tac_toe.cpp -o a.out`
+#### `$ ./a.out`
 
 ### Example Starting Output
 
