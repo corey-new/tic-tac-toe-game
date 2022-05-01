@@ -95,6 +95,7 @@ int main() {
         cout << "Enter a valid game option\n";
         cout << "or choose player to start a game : ";
         cin >> userInput;
+        userInput = userInput - '0';
         board.updateBoard(userInput, player);
         
         if(toupper(userInput) == 'Q') {
